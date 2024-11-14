@@ -1,0 +1,5 @@
+eno =  int( input("Enter Employee No:") )
+ename =     input("Enter Employee Name:")
+esal = float (input("Enter Employee Salary:"))
+eaddr=input("Enter Employee Address:")
+married =bool(input("Employee Married ?[True/False]:") )
